@@ -7,3 +7,5 @@ GitHub Actions, GitHub Issues, GitHub Pages and GitHub Flat Data.
 
 * [Getting Started](https://github.com/git-things-done/gtd#readme)
 * [Making New GitTD Actions](https://github.com/git-things-done/gtd#Contributing)
+
+![GitTD-screenshot](https://user-images.githubusercontent.com/58962/141682345-19eb1f49-6808-45f8-95e6-67ab3af971c8.png)
