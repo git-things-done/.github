@@ -8,4 +8,4 @@ GitHub Actions, GitHub Issues, GitHub Pages and GitHub Flat Data.
 * [Getting Started](https://github.com/git-things-done/gtd#readme)
 * [Making New GitTD Actions](https://github.com/git-things-done/gtd#Contributing)
 
-![GitTD-screenshot](https://user-images.githubusercontent.com/58962/141682345-19eb1f49-6808-45f8-95e6-67ab3af971c8.png)
+![GitTD-screenshot](https://user-images.githubusercontent.com/58962/142735824-d0fae666-5581-44d3-aaa8-ead40e0df4d4.png)
